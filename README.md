@@ -30,6 +30,10 @@ Additionally there's a model selection folder template for classification.
 - k-means-clustering
 - hierarchichal clustering
 
+## Association Rule Learning templates
+- apriori
+- eclat
+
 ## Natural Language Processing (NLP) templates
 - bag-of-words
 
