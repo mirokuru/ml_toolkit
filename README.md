@@ -34,6 +34,10 @@ Additionally there's a model selection folder template for classification.
 - apriori
 - eclat
 
+## Reinforcement Learning
+- upper confidence bound (UCB)
+- thompson sampling
+
 ## Natural Language Processing (NLP) templates
 - bag-of-words
 
